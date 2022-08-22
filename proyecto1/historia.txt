@@ -3,3 +3,11 @@ este es la historia de jose guzman venezolanoi
 de xx anos de edad viviendo en colombia desde hace 4 anos
 actualmente es empalmador de fibra optica convirtiendose en uno de los mejores
  en la actualidad
+
+ actualizando sus actitudes y habilidades en la 
+ tecnologia de la informacion 
+ se reallizan camios en este documento 
+ practicando los comandos git
+ para subir al repositorio posteriormente 
+ asi fortaleciendo las habillidades en el sitema de git github..
+ 
